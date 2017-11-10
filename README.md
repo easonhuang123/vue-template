@@ -1,4 +1,4 @@
-# Slush Vue-template [![Build Status](https://secure.travis-ci.org/easonhuang123/slush-vue-template.png?branch=master)](https://travis-ci.org/easonhuang123/slush-vue-template) [![NPM version](https://badge-me.herokuapp.com/api/npm/slush-vue-template.png)](http://badges.enytc.com/for/npm/slush-vue-template)
+# Slush Vue-template [![Build Status](https://secure.travis-ci.org/easonhuang/slush-vue-template.png?branch=master)](https://travis-ci.org/easonhuang/slush-vue-template) [![NPM version](https://badge-me.herokuapp.com/api/npm/slush-vue-template.png)](http://badges.enytc.com/for/npm/slush-vue-template)
 
 > 
 
